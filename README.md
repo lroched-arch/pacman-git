@@ -7,6 +7,7 @@ Aquest videojoc està basat en el joc retro del conegut Pac-Man. Una cara 🟡 q
 # Fantasmes:
 
 - [Blinky](blinky.md)
+- [Pinky](pinky.md)
 
 
 ## Autor

@@ -2,4 +2,4 @@
 
 ## Descripció del fantasma 👻
 
-Blinky, el fantasma vermell, és el més agressiu, sempre persegueix Pac-Man pel laberint. A més, quan Pac-Man recull un cert nombre de punts en cada nivell, la velocitat de Blinky augmenta substancialment.
+**Blinky**, el fantasma vermell, és el més agressiu, sempre persegueix Pac-Man pel laberint. A més, quan Pac-Man recull un cert nombre de punts en cada nivell, la velocitat de Blinky augmenta substancialment.
