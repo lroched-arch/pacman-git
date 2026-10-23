@@ -1,4 +1,4 @@
-# Blinky 🔴
+# Blinky ❤️
 
 ## Descripció del fantasma 👻
 

@@ -10,6 +10,7 @@ Aquest videojoc està basat en el joc retro del conegut Pac-Man. Una cara 🟡 q
 - [Blinky](blinky.md)
 - [Pinky](pinky.md)
 - [Inky](inky.md)
+- [Clyde](clyde.md)
 
 
 ## Autor
